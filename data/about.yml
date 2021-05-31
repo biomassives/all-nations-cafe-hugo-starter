@@ -1,37 +1,47 @@
+---
 work_process:
-  enable : true
-  title : "Work Process"
+  enable: true
+  title: Work Process
   item:
-  - title : "Research and Plan"
-    icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title : "Design and Develop"
-    icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
+  - title: Research and Plan
+    icon: images/icons/plan.png
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Design and Develop
+    icon: images/icons/design.png
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Deliver
+    icon: images/icons/print.png
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
 team:
   enable: true
-  title : "My Team"
+  title: My Team
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
-
-
+  - title: Jack Schenziwe
+    image: images/team/member-1.png
+    designation: Project Manager
+  - title: Julias Carlie
+    image: images/team/member-2.png
+    designation: Web Developer
+  - title: John Doe
+    image: images/team/member-3.png
+    designation: Designer
 clients_logo_slider:
-  enable : true
-  title : "My Clients"
+  enable: true
+  title: What we're about..
+  item:
+  - logo: ''
+    URL: ''
+  - logo: '<iframe src="https://player.vimeo.com/video/100649161" width="640" height="360"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      <p><a href="https://vimeo.com/100649161">Holy Land Caravan: Israeli-Palestinian
+      Community of Friends</a> from <a href="https://vimeo.com/allnationscafe">All
+      Nations Cafe</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
+    URL: '<iframe src="https://player.vimeo.com/video/100649161" width="640" height="360"
+      frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      <p><a href="https://vimeo.com/100649161">Holy Land Caravan: Israeli-Palestinian
+      Community of Friends</a> from <a href="https://vimeo.com/allnationscafe">All
+      Nations Cafe</a> on <a href="https://vimeo.com">Vimeo</a>.</p>'
+  - URL: ''
