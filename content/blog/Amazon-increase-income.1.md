@@ -1,7 +1,7 @@
 ---
 title: The Problem
 date: 2019-05-31T06:14:34+00:00
-image: images/blog/post-2.jpg
+image: "/images/screenshot-from-2021-05-31-15-29-27.png"
 description: This is meta description.
 
 ---
