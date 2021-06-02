@@ -14,5 +14,3 @@ fields:
 - type: text
   name: description
   label: description
-pages:
-- data/anc-jerusalem-calendar.yml
