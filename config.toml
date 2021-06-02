@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = ""
+author = "J"
+copyright = ""
 description = "This is meta description"
-email = "steve.fruits@email.com"
-google_analitycs_id = "Your ID"
+email = "greg@ecocity.com"
+google_analitycs_id = "274174623"
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
