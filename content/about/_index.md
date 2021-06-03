@@ -1,7 +1,8 @@
 ---
 title: About
-date: 2021-05-30T06:14:34+00:00
-description: This is meta description.
+date: 2021-05-30T06:14:34.000+00:00
+description: All nations cafe serve as a hub where people from all religions, nationalities,
+  and backgrounds can gather to.
 author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
